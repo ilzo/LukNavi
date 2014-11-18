@@ -46,9 +46,7 @@ MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?
 
 ####(miltä se näyttää)
 
-* onko käyttöliittymästä kuvia?
-* luonnoksia vai kuvakaappauksia valmiista käyttöliittymästä?
-* miten eri näkymien (views) välillä liikutaan?
+* ei kuvia käyttöliittymästä
 
 ####(prosessimalli)
 

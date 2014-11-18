@@ -25,7 +25,7 @@ opettajan palvelut
 ####(käyttötapaukset)
 
 * mitä sillä voi tehdä?
-Sähköinen työpöytä on tietylle kohderyhmälle/eri toimijoille tarkoitettu
+	- Sähköinen työpöytä on tietylle kohderyhmälle/eri toimijoille tarkoitettu
 käyttöliittymä, johon työn suorittamisen kannalta relevantit tiedot ja toiminnot tuodaan
 näkyviin.
 * käyttötapauskaavio(t)?
@@ -33,7 +33,7 @@ näkyviin.
 * kuinka yksityiskohtaisesti kuvattu?
 
 * skenaariot? tarinat?
-	Monia kymmeniä sivuja eri käyttäjiltä (koulutussuunnittelija, -päällikkö, opettaja)
+	- Monia kymmeniä sivuja eri käyttäjiltä (koulutussuunnittelija, -päällikkö, opettaja)
 ####(järjestelmän yleisrakenne)
 
 MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?

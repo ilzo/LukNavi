@@ -7,9 +7,20 @@ opettajan palvelut
 
 * lukijakunta, kenelle dokumentti on tarkoitettu?
 * tilanne?
-* motivaatio, miksi dokumentti on luotu - dokumentissa kuvataan koulutuksen suunnittelijan ja opettajan 
-palvelukokonaisuuden sovellusarkkitehtuuri ja tekniset vaatimukset
-* dokumentin rakenne, millainen se on esim. verrattuna projektissa käytettävään malliin? Kts. myös Wikipediasta löytyvä runko.
+* motivaatio, miksi dokumentti on luotu 
+	- dokumentissa kuvataan koulutuksen suunnittelijan ja opettajan 
+	  palvelukokonaisuuden sovellusarkkitehtuuri ja tekniset vaatimukset
+* dokumentin rakenne, millainen se on esim. verrattuna projektissa käytettävään malliin
+	- Johdanto
+	- Termit ja määritelmät
+	- Arkkitehtuuriperiaatteet
+	- Yleiset periaatteet ja vaatimukset 
+	- Noudatettavat standardit
+	- Autorisointi ja auktorisointi
+	- Rajapinnat ja liittymät muihin järjestelmiin
+	- Kokonaiskuva
+	
+	
 
 ####(käyttötapaukset)
 

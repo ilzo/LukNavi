@@ -27,6 +27,7 @@ vastauksesi.
 	- Päävalikko/Hakusivu
 	- Karttanäkymä
 	- Lukujärjestys
+	- Ryhmienhallintasivu (onko ryhmächat-ikkuna samalla sivulla vai omalla?)
 
 
 3. Kuvaile näkymät *sanallisesti*: mitä näkymällä tehdään ja mitä siinä näkyy. Pyri määrittelemään tässä näkymät

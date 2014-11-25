@@ -32,6 +32,16 @@ vastauksesi.
 
 3. Kuvaile näkymät *sanallisesti*: mitä näkymällä tehdään ja mitä siinä näkyy. Pyri määrittelemään tässä näkymät
 *toiminnallisesta näkökulmasta*, älä niinkään ajattele miltä ne näyttävät
+	- Kirjautumissivu: Käyttäjä/Opiskelija kirjautuu tässä ikkunassa sovellukseen omilla tuubi-käyttäjänimellään 
+	ja salasanallaan, ja painamalla "Kirjaudu" -painiketta. 
+	
+	- Päävalikko/Hakusivu: Tälle näkymälle sijoittuu tiedot oppilaan seuraavaksi alkavasta oppitunnista. Tietoikkunan
+	  alapuolella on painike "Navigoi", jota painamalla avataan kaksiulotteinen karttanäkymä, jossa käyttäjä ohjataan 
+	  valittuun työtilaan. Päävalikosta löytyy painike "Lukujärjestys", jota painamalla siirrytään Lukujärjestys -näkymään. 
+	  Päävalikosta löytyy painike "Vapaat työtilat", joka avaa erillisen ikkunan, jossa varaamattomat työtilat lueteltuina.
+	  Jokaisen työtilan vieressä on Kartta/Kompassi -painike, jota painamalla siirrytään karttanäkymään. Päävalikossa
+	  on painike "Omat työryhmät", jota painamalla siirrytään ryhmienhallintasivulle.
+
 4. Määritä näkymien väliset siirtymät korkealla tasolla, mistä näkymästä pääsee minnekin? Millä tavoin visualisoisit tilasiirtymät?
 5. Listaa jokaista näkymää kohti tieto siitä, millaista tietosisältöä tai data käyttöliittymässä näytetään.
 

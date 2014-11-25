@@ -41,6 +41,10 @@ vastauksesi.
 	  Päävalikosta löytyy painike "Vapaat työtilat", joka avaa erillisen ikkunan, jossa varaamattomat työtilat lueteltuina.
 	  Jokaisen työtilan vieressä on Kartta/Kompassi -painike, jota painamalla siirrytään karttanäkymään. Päävalikossa
 	  on painike "Omat työryhmät", jota painamalla siirrytään ryhmienhallintasivulle.
+	  
+	- Karttanäkymä: Kaksiulotteinen pohjakartta koulun sisätiloista, jossa käyttäjä edustaa punaista nuolta.
+	Riippuen mitä oppituntia tai työtilaa haetaan, käyttäjä ohjataan määränpäähän reittiviivalla. Reittiviiva 
+	ja karttanäkymä päivittyvät ruudulla sitä mukaan kun käyttäjä liikkuu.
 
 4. Määritä näkymien väliset siirtymät korkealla tasolla, mistä näkymästä pääsee minnekin? Millä tavoin visualisoisit tilasiirtymät?
 5. Listaa jokaista näkymää kohti tieto siitä, millaista tietosisältöä tai data käyttöliittymässä näytetään.

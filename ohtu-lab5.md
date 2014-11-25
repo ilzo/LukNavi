@@ -21,7 +21,14 @@ vastauksesi.
 	- Käyttötapaukset ovat lyhyitä ja selkeitä kuvauksia, mitä sovelluksella on mahdollista pystyä tekemään. 
       Yksittäisiä käyttötapauksia voi hyödyntää käyttöliittymän vaatimusmäärittelyssä siten, että tietty 
 	  käyttötapauksen kuvaama ominaisuus tai toiminto on löydyttävä ja oltava todennettavissa käyttöliittymästä.	
+
 2. Listaa järjestelmän käyttöliittymän olennaisimmat näkymät
+	- Kirjautumissivu
+	- Päävalikko/Hakusivu
+	- Karttanäkymä
+	- Lukujärjestys
+
+
 3. Kuvaile näkymät *sanallisesti*: mitä näkymällä tehdään ja mitä siinä näkyy. Pyri määrittelemään tässä näkymät
 *toiminnallisesta näkökulmasta*, älä niinkään ajattele miltä ne näyttävät
 4. Määritä näkymien väliset siirtymät korkealla tasolla, mistä näkymästä pääsee minnekin? Millä tavoin visualisoisit tilasiirtymät?

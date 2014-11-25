@@ -18,6 +18,9 @@
 
 1. Miten käyttötapaukset ja käyttöliittymät voisi yhdistää toisiinsa vaatimusmäärittelydokumentaatiossa? Perustele
 vastauksesi.
+	- Käyttötapaukset ovat lyhyitä ja selkeitä kuvauksia, mitä sovelluksella on mahdollista pystyä tekemään. 
+      Yksittäisiä käyttötapauksia voi hyödyntää käyttöliittymän vaatimusmäärittelyssä siten, että tietty 
+	  käyttötapauksen kuvaama ominaisuus tai toiminto on löydyttävä ja oltava todennettavissa käyttöliittymästä.	
 2. Listaa järjestelmän käyttöliittymän olennaisimmat näkymät
 3. Kuvaile näkymät *sanallisesti*: mitä näkymällä tehdään ja mitä siinä näkyy. Pyri määrittelemään tässä näkymät
 *toiminnallisesta näkökulmasta*, älä niinkään ajattele miltä ne näyttävät

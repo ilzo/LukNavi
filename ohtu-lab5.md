@@ -3,10 +3,10 @@
 #### 1. Selitä seuraavat käsitteet:
 
   1. Näkymä (view)
-    - Jokin käyttäjälle näkyvä osa sovelluksen käyttöliittymästä.
+    - Jokin käyttäjälle näkyvä osa sovelluksen käyttöliittymästä, esim. etusivuikkuna, päävalikko, yms.
   
   2. Wireframe
-	- Sivuston tai sovelluksen pohjakaaviokuva, luuranko.
+	- Sivuston tai sovelluksen pohjakaaviokuva, luuranko. Karkea rautalankamalli.
   3. Mockup
 	- Luonnos käyttöliittymänäkymästä joko piirrettynä paperille tai tietokoneen piirtotyökalulla.
   4. Prototyyppi

@@ -35,18 +35,18 @@ vastauksesi.
 	- Kirjautumissivu: Käyttäjä/Opiskelija kirjautuu tässä ikkunassa sovellukseen omilla tuubi-käyttäjänimellään 
 	ja salasanallaan, ja painamalla "Kirjaudu" -painiketta. 
 	
-	- Päävalikko/Hakusivu: Tälle näkymälle sijoittuu tiedot oppilaan seuraavaksi alkavasta oppitunnista. Tietoikkunan
-	  alapuolella on painike "Navigoi", jota painamalla avataan kaksiulotteinen karttanäkymä, jossa käyttäjä ohjataan 
-	  valittuun työtilaan. Päävalikosta löytyy painike "Lukujärjestys", jota painamalla siirrytään Lukujärjestys -näkymään. 
-	  Päävalikosta löytyy painike "Vapaat työtilat", joka avaa erillisen ikkunan, jossa varaamattomat työtilat lueteltuina.
-	  Jokaisen työtilan vieressä on Kartta/Kompassi -painike, jota painamalla siirrytään karttanäkymään. Päävalikossa
-	  on painike "Omat työryhmät", jota painamalla siirrytään ryhmienhallintasivulle.
-	  
+	- Päävalikko/Hakusivu: Tälle näkymälle sijoittuu tiedot oppilaan seuraavaksi alkavasta oppitunnista omaan tietoikkunaan
+	  sivun ylälaitaan. Tietoikkunan oikeassa alakulmassa on kompassi-painike, josta siirrytään karttanäkymään. Tietoikkunan
+	  alapuolella on painikkeet "Lukujärjestys", "Vapaat työtilat" ja "Työryhmät". 
 	- Karttanäkymä: Kaksiulotteinen pohjakartta koulun sisätiloista, jossa käyttäjää edustaa punainen nuoli.
 	Riippuen mitä oppituntia tai työtilaa haetaan, käyttäjä ohjataan määränpäähän reittiviivalla. Reittiviiva 
 	ja karttanäkymä päivittyvät ruudulla sitä mukaan kun käyttäjä liikkuu.
 
 4. Määritä näkymien väliset siirtymät korkealla tasolla, mistä näkymästä pääsee minnekin? Millä tavoin visualisoisit tilasiirtymät?
+	- Päävalikosta löytyy painike "Lukujärjestys", jota painamalla siirrytään Lukujärjestys -näkymään. 
+	  Päävalikosta löytyy painike "Vapaat työtilat", joka avaa erillisen ikkunan, jossa varaamattomat työtilat lueteltuina.
+	  Jokaisen työtilan vieressä on Kartta/Kompassi -painike, jota painamalla siirrytään karttanäkymään.
+	  Päävalikossa on painike "Omat työryhmät", jota painamalla siirrytään ryhmienhallintasivulle.
 5. Listaa jokaista näkymää kohti tieto siitä, millaista tietosisältöä tai data käyttöliittymässä näytetään.
 
 #### 3. Visualisoi listaamasi näkymät ja niihin liittyvät siirtymät

@@ -42,7 +42,7 @@ vastauksesi.
 	  Jokaisen työtilan vieressä on Kartta/Kompassi -painike, jota painamalla siirrytään karttanäkymään. Päävalikossa
 	  on painike "Omat työryhmät", jota painamalla siirrytään ryhmienhallintasivulle.
 	  
-	- Karttanäkymä: Kaksiulotteinen pohjakartta koulun sisätiloista, jossa käyttäjä edustaa punaista nuolta.
+	- Karttanäkymä: Kaksiulotteinen pohjakartta koulun sisätiloista, jossa käyttäjää edustaa punainen nuoli.
 	Riippuen mitä oppituntia tai työtilaa haetaan, käyttäjä ohjataan määränpäähän reittiviivalla. Reittiviiva 
 	ja karttanäkymä päivittyvät ruudulla sitä mukaan kun käyttäjä liikkuu.
 

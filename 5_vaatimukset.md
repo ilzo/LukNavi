@@ -20,23 +20,25 @@ käyttäisit?
 Mitä muita ei-funktionaalisia vaatimuksia olisi syytä kuvata?
 Millaisia metriikkoja käyttäisit, jotta vaatimukset ovat 
 riittävän yksiselitteisiä?
-
+--------------
 Osalle tarttis tehä jotain, osa on liian epätarkkaa ja osa ei varmaa edes kuulu vaatimuksiin T:hans
 * Funktionaaliset
   * Järjestelmän on havainnollistettava käyttäjän sijainti rakennuksen sisällä (TARKKUUS?)
-  * Järjestelmä laskee reitin käyttäjän nykyisestä sijainnista haluttuun luokkatilaan
+  * Järjestelmä laskee lyhyimmän reitin käyttäjän nykyisestä sijainnista haluttuun luokkatilaan ja esittää reitin kartalla
   * Järjestelmä hakee lukujärjestykset ja vapaat tilat Metropolian valmiista järjestelmästä (Kirjautumisesta määrittely?)
-#
 -
 -
 * Ei-funktionaaliset
   * Käytettävyys oltava helppoa: käyttäjätestejä&kyselyitä pitkin projektin etenemistä
   * Ulkonäkö laadukas: Käyttäjäkyselyissä myös ulkonäköön liittyviä kysymyksiä
-
-
+  * Järjestelmän (ajettavan ohjelman) keveys. Suurin osa liikenteestä tapahtuu Metropolian wlanin kautta(paljon muitakin käyttäjiä)(tai mobiiliverkon kautta toissijaisesti)
+   dataliikenteen mahduttava näihin.
+    * stressitesti?
+  * Mikäli näyttö on "suljettuna", dataa ei lähetetä turhaan taustalla vaan sijainti haetaan uudelleen näytön "lähtiessä käyntiin"
+    * muutaman minuutin "varoaika" ehkä mahdollinen
 
 
 **ONGELMIA JOITA MIETTIÄ
-  * Yksi tai useampi wlan-reititin on pimeänä, miten signaalien mittaukset sijainnin laskenta muuttuu?
+  * Yksi tai useampi wlan-reititin on pimeänä, miten signaalien mittaukset/sijainnin laskenta muuttuu?
   * Tietoturva = Salattu yhteys?
   * Paljon yhdenaikaisia käyttäjiä (etenkin juuri ennen tuntien alkamista)

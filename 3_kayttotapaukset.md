@@ -9,6 +9,12 @@ Ohessa käyttötapauskaavio keskeisine käyttötapauksineen:
 ![Use case diagram](http://users.metropolia.fi/~ilariju/Ohjelmistotuotanto/UseCase_Diagram1.png)
 
 
+###Käyttötapausskenaariot
+
+Ohessa on listattu tärkeimpien käyttötapauksien käyttötapausskenaariot:
+
+
+
 
 --------------
 * Määritä tänne järjestelmän loppukäyttäjät

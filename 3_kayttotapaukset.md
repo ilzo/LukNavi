@@ -37,8 +37,25 @@ tapahtuu virheitä karttanäkymän päivityksessä.
 	- Opiskelija hakee myöhemmin alkavan oppitunnin lukujärjestyksestä ja siirtyy kompassi-ikonilla 
 	  karttanäkymään hakemaan reitin kyseisen oppitunnin työtilaan. 
     
+**Perusta oma työryhmä**
 
+- Alkutila: Opiskelija on sisäänkirjautuneena sovelluksen päävalikossa, ja haluaa perustaa oman työryhmän
+  paikantaakseen opiskelutoverinsa ja pitääkseen heihin yhteyttä sovelluksen kautta. 
 
+- Normaali kulku: Opiskelija siirtyy Työryhmät-sivulle painamalla päävalikossa "Työryhmät"-painiketta. 
+  Työryhmät-sivulla opiskelija pääsee perustamaan uuden ryhmän painamalla sivun ylälaidassa olevaa 
+  "+"-painiketta. Opiskelija syöttää avautuvaan tekstikenttään ryhmän nimen ja painaa enter. Opiskelija 
+  hakee ystävänsä painamalla henkilöhakupainiketta, ja lähettää jokaiselle kutsun liittyä perustamaansa
+  työryhmään. Saapuneet kutsut näytetään huutomerkki-ilmoituksina vastaanottajan päävalikon Työryhmät-
+  painikkeen kohdalla. 
+  
+- Lopputila: Hyväksyttyään kutsut, opiskelijan ystävät kuuluvat tämän perustamaan ryhmään,
+  ja ryhmän jäsenet voivat paikantaa toisiaan ja kommunikoida ryhmächatissa keskenään niin kauan kuin
+  ovat sisäänkirjautuneena sovellukseen ja heillä on puhelimien verkkoyhteydet aktiivisina.
+
+- Mikä voi mennä pieleen:  
+
+  
 
 
 --------------

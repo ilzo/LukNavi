@@ -21,18 +21,22 @@ Mitä muita ei-funktionaalisia vaatimuksia olisi syytä kuvata?
 Millaisia metriikkoja käyttäisit, jotta vaatimukset ovat 
 riittävän yksiselitteisiä?
 
-Osalle tarttis tehä jotain, osa on liian epätarkkaa ja osa ei varmaa edes kuulu vaatimuksiin!!! T:hans
+Osalle tarttis tehä jotain, osa on liian epätarkkaa ja osa ei varmaa edes kuulu vaatimuksiin T:hans
 * Funktionaaliset
-#Järjestelmän on havainnollistettava käyttäjän sijainti rakennuksen sisällä (TARKKUUS?)
-#Järjestelmä laskee reitin käyttäjän nykyisestä sijainnista haluttuun luokkatilaan
-#Järjestelmä hakee lukujärjestykset ja vapaat tilat Metropolian valmiista järjestelmästä (Kirjautuminen määrittely?)
+Järjestelmän on havainnollistettava käyttäjän sijainti rakennuksen sisällä (TARKKUUS?)
+#ärjestelmä laskee reitin käyttäjän nykyisestä sijainnista haluttuun luokkatilaan
+Järjestelmä hakee lukujärjestykset ja vapaat tilat Metropolian valmiista järjestelmästä (Kirjautumisesta määrittely?)
 #
 -
 -
 * Ei-funktionaaliset
-#
+Käytettävyys oltava helppoa: käyttäjätestejä&kyselyitä pitkin projektin etenemistä
+Ulkonäkö laadukas: Käyttäjäkyselyissä myös ulkonäköön liittyviä kysymyksiä
 
 
-ONGELMIA JOITA MIETTIÄ
-#Yksi tai useampi wlan-reititin on pimeänä, jolloin signaalien mittaukset hankaloituvat
-#Tietoturva = Salattu yhteys?
+
+
+** ONGELMIA JOITA MIETTIÄ
+Yksi tai useampi wlan-reititin on pimeänä, miten signaalien mittaukset sijainnin laskenta muuttuu?
+Tietoturva = Salattu yhteys?
+Paljon yhdenaikaisia käyttäjiä (etenkin juuri ennen tuntien alkamista)

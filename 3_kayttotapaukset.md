@@ -13,6 +13,29 @@ Ohessa käyttötapauskaavio keskeisine käyttötapauksineen:
 
 Ohessa on listattu tärkeimpien käyttötapauksien käyttötapausskenaariot:
 
+**Hae valitun luokan/työtilan sijainti kartalta**
+
+- Alkutila: Opiskelija on sisäänkirjautuneena sovelluksen päävalikossa ja huomaa ylälaidassa olevasta 
+tietoikkunasta oppitunnin alkavan pian. Opiskelija ei tiedä missä tilassa tunti pidetään, ja haluaa 
+selvittää tämän siirtymällä karttanäkymään.
+
+- Normaali kulku: Opiskelija painaa seuraavaksi alkavan oppitunnin tietoikkunan alakulmassa olevaa 
+kompassi-ikonia, joka avaa karttanäkymän. Karttanäkymässä opiskelija näkee itsensä punaisena nuolena.
+Kartta laskee opiskelijalle lyhyimmän mahdollisen reitin määränpäähän, ja välimatka piirretään kartalle 
+vihreänä reittiviivana. Opiskelija kävelee kartan opastamaan suuntaan ja reitti sekä kartan keskitys 
+päivittyvät karttanäkymään opiskelijan siirtymän mukaan. 
+
+- Lopputila: Opiskelija saapuu määränpäähänsä ja sulkee karttanäkymän puhelimen peruutus -painikkeesta
+
+- Mikä voi mennä pieleen: Yksittäiseen koulun wi-fi-tukiaseman vioittuessa tai signaalihäiriöiden sattuessa
+tapahtuu virheitä karttanäkymän päivityksessä.
+
+- Vaihtoehtoiset tapahtumat: 
+	*Opiskelija painaa vahingossa kompassi-ikonin sijaan tietoikkunaa, ja avaa sivun jossa on tarkennettua 
+	informaatiota kurssista.
+	*Opiskelija sulkee karttanäkymän vahingossa painamalla puhelimen peruutus-painiketta.
+    
+
 
 
 

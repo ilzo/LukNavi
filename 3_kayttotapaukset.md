@@ -50,8 +50,8 @@ tapahtuu virheitä karttanäkymän päivityksessä.
   painikkeen kohdalla. 
   
 - Lopputila: Hyväksyttyään kutsut, opiskelijan ystävät kuuluvat tämän perustamaan ryhmään,
-  ja ryhmän jäsenet voivat paikantaa toisiaan ja kommunikoida ryhmächatissa keskenään niin kauan kuin
-  ovat sisäänkirjautuneena sovellukseen ja heillä on puhelimien verkkoyhteydet aktiivisina.
+  ja ryhmän jäsenet voivat paikantaa toisiaan koulualueella ja kommunikoida ryhmächatissa keskenään niin 
+  kauan kuin ovat sisäänkirjautuneena sovellukseen ja heillä on puhelimien verkkoyhteydet aktiivisina.
 
 - Mikä voi mennä pieleen: Opiskelija ei voi luoda ryhmää, koska hänen nimeämä ryhmä on jo olemassa.   
 

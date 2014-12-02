@@ -31,9 +31,9 @@ päivittyvät karttanäkymään opiskelijan siirtymän mukaan.
 tapahtuu virheitä karttanäkymän päivityksessä.
 
 - Vaihtoehtoiset tapahtumat: 
-*Opiskelija painaa vahingossa kompassi-ikonin sijaan tietoikkunaa, ja avaa sivun jossa on tarkennettua 
-informaatiota kurssista.
-*Opiskelija sulkee karttanäkymän vahingossa painamalla puhelimen peruutus-painiketta.
+	- Opiskelija painaa vahingossa kompassi-ikonin sijaan tietoikkunaa, ja avaa sivun jossa on tarkennettua 
+	  informaatiota kurssista.
+	- Opiskelija sulkee karttanäkymän vahingossa painamalla puhelimen peruutus-painiketta.
     
 
 

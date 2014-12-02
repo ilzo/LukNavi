@@ -55,7 +55,7 @@ tapahtuu virheitä karttanäkymän päivityksessä.
 
 - Mikä voi mennä pieleen: Opiskelija ei voi luoda ryhmää, koska hänen nimeämä ryhmä on jo olemassa.   
 
-  
+- Vaihtoehtoiset tapahtumat:   
 
 
 --------------

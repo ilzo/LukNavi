@@ -53,7 +53,7 @@ tapahtuu virheitä karttanäkymän päivityksessä.
   ja ryhmän jäsenet voivat paikantaa toisiaan ja kommunikoida ryhmächatissa keskenään niin kauan kuin
   ovat sisäänkirjautuneena sovellukseen ja heillä on puhelimien verkkoyhteydet aktiivisina.
 
-- Mikä voi mennä pieleen:  
+- Mikä voi mennä pieleen: Opiskelija ei voi luoda ryhmää, koska hänen nimeämä ryhmä on jo olemassa.   
 
   
 

@@ -34,6 +34,8 @@ tapahtuu virheitä karttanäkymän päivityksessä.
 	- Opiskelija painaa vahingossa kompassi-ikonin sijaan tietoikkunaa, ja avaa sivun jossa on tarkennettua 
 	  informaatiota kurssista.
 	- Opiskelija sulkee karttanäkymän vahingossa painamalla puhelimen peruutus-painiketta.
+	- Opiskelija hakee myöhemmin alkavan oppitunnin lukujärjestyksestä ja siirtyy kompassi-ikonilla 
+	  karttanäkymään hakemaan reitin kyseisen oppitunnin työtilaan. 
     
 
 

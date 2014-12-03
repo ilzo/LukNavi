@@ -1,7 +1,7 @@
 
 
 
-![Use case diagram](http://users.metropolia.fi/~arttusp/Pramidi.png)
+![Use case diagram](http://users.metropolia.fi/~arttusp/Pyramidi.png)
 
 ###Järjestelmä arkkitehtuuri
 
@@ -23,12 +23,15 @@ paikkatieto luetaan.
 
 
 ***Työryhmät***
-//Kuva käyttäliittymän työryhmät tilasta-
+//Kuva käyttäliittymän työryhmät tilasta
+
 Työryhmät tilassa käyttäjä voi koota uusia tai liittyä valmiiseen työryhmään. Työryhmän sisällä voidaan käydä realiaikaista viestintää 
 pikaviesti ohjelman tavoin. Keskustelu sekä työryhmä tietokanta perustuu tuubin työryhmä tietokantaan ja sen muokkaamiseen.
 
 ***Vapaat työtilat***
-//Kuva käyttäliittymän vapaat työtilat tilasta-
+
+//Kuva käyttäliittymän vapaat työtilat tilasta
+
 Vapaat työtilat tilassa käyttäjä voi etsiä vapaita ATK-/auditointi-huoneita. Järjestelmä perustuu Metropolian Pakki tilanvaraus-järjestelmään,
 jonka tietokannasta luetaan tilan varaustilanne. (Huomioitavaa, että ohjelman avulla ei voida varata kyseistä työtilaa.)
 Käyttäjä voi halutessaan navigoida kohteeseen ja siirtyä navigointi tilaan

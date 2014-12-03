@@ -18,19 +18,21 @@ järjestelmässä on riittävästi tehoja? Millaisia metriikkoja
 käyttäisit?
 
 Mitä muita ei-funktionaalisia vaatimuksia olisi syytä kuvata?
-Millaisia metriikkoja käyttäisit, jotta vaatimukset ovat 
-riittävän yksiselitteisiä?
+Millaisia metriikkoja käyttäisit, jotta vaatimukset ovat riittävän yksiselitteisiä?
 --------------
 Osalle tarttis tehä jotain, osa on liian epätarkkaa ja osa ei varmaa edes kuulu vaatimuksiin T:hans
-** Funktionaaliset **
+
+
+**Funktionaaliset**
   * Järjestelmän voitava kirjautua Metropolian palvelimelle hakeakseen opiskelijatietoja
   * Järjestelmän on havainnollistettava käyttäjän sijainti rakennuksen sisällä (TARKKUUS?)
   * Järjestelmä laskee reitin käyttäjän nykyisestä sijainnista haluttuun luokkatilaan ja esittää reitin kartalla
   * Järjestelmä hakee lukujärjestykset ja vapaat tilat Metropolian valmiista järjestelmästä
   * Yhteydenpitoon palvelimen kanssa käytetään salattua yhteyttä 
--
--
-** Ei-funktionaaliset **
+
+
+  
+**Ei-funktionaaliset**
   * Käytettävyys oltava helppoa: käyttäjätestejä&kyselyitä pitkin projektin etenemistä
   * Ulkonäkö laadukas: Käyttäjäkyselyissä myös ulkonäköön liittyviä kysymyksiä
   * Sovelluksesta aiheutuva dataliikenne ei saa kuormittaa Metropolian wlan-yhteyksiä liiaksi

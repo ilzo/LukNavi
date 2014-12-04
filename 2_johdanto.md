@@ -9,7 +9,3 @@ opiskelijaa löytämään nopeasti ja vaivattomasti kaikki päivittäisten opisk
 koulun alueella. 
 
 
---------
-* Kerro tässä luvussa yleiskuvaus projektista
-* Mitä tehdään?
-* Miksi? Projektin taustatiedot, miksi tällainen projekti on olemassa?  

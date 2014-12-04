@@ -1,12 +1,10 @@
 
-## Projektin kansilehti 
+#LukNavi 
 
-Listaa tänne
-
-* Projektin otsikko eli tuotteen nimi
-* Tiimin nimi
-* Tiimin jäsenet
-* Päivämäärä
-* Dokumentin versio, jos tarpeen 
+*Luknavi
+* Drupalwelhot
+* Ilari Juvani, Arttu Pakarinen ja Hannu Ikonen
+* 1.12.2014
+ 
 
 

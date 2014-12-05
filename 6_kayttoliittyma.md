@@ -10,7 +10,7 @@
 ###Näkymien väliset siirtymät korkealla tasolla
 - Päävalikosta löytyy painike "Lukujärjestys", jota painamalla siirrytään Lukujärjestys -näkymään. 
 	  Päävalikosta löytyy painike "Vapaat työtilat", joka avaa erillisen ikkunan, jossa varaamattomat työtilat lueteltuina.
-	  Jokaisen työtilan vieressä on Kartta/Kompassi -painike, jota painamalla siirrytään karttanäkymään.
+	  Jokaisen työtilan vieressä on Navigointi/Nuoli -painike, jota painamalla siirrytään karttanäkymään.
 	  Päävalikossa on painike "Omat työryhmät", jota painamalla siirrytään ryhmienhallintasivulle.
 
 	  
@@ -19,12 +19,16 @@
 	ja salasanallaan, ja painamalla "Kirjaudu" -painiketta. 
 	
 - Päävalikko/Hakusivu: Tälle näkymälle sijoittuu tiedot oppilaan seuraavaksi alkavasta oppitunnista omaan tietoikkunaan
-	  sivun ylälaitaan. Tietoikkunan oikeassa alakulmassa on kompassi-painike, josta siirrytään karttanäkymään. Tietoikkunan
+	  sivun ylälaitaan. Tietoikkunan oikeassa alakulmassa on Navigointi/Nuoli-painike, josta siirrytään karttanäkymään. Tietoikkunan
 	  alapuolella on painikkeet "Lukujärjestys", "Vapaat työtilat" ja "Työryhmät". 
 	
 - Karttanäkymä: Kaksiulotteinen pohjakartta koulun sisätiloista, jossa käyttäjää edustaa punainen nuoli.
 	Riippuen mitä oppituntia tai työtilaa haetaan, käyttäjä ohjataan määränpäähän reittiviivalla. Reittiviiva 
 	ja karttanäkymä päivittyvät ruudulla sitä mukaan kun käyttäjä liikkuu.
+	
+- Työryhmät: Tällä sivulla opiskelija voi joko perustaa oman työryhmän tai hakea olemassaolevia ryhmiä. Ryhmiä haetaan kirjoittamalla ryhmän nimi
+  Ryhmähakukenttään. Ryhmiin liitytään lähettämällä ryhmän perustajalle pyyntö. Vastaavasti perustaja voi liittää työryhmäänsä uusia jäseniä hakemalla Henkilöhakupainikkeella oppilaita/opettajia
+  ja lähettämällä heille ryhmäkutsun.  
 
 
 

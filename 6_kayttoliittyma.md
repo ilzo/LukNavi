@@ -31,7 +31,6 @@
   Hakukenttään. Vastaavasti yksittäisiä henkilöitä haetaan valitsemalla Henkilöhakupainike aktiiviseksi ja kirjoittamalla henkilön nimi Hakukenttään. Sivun 
   keskiosassa näytetään oletuksena omat työryhmät, ja ryhmiä haettaessa hakutulokset. Ryhmiin liitytään lähettämällä ryhmän perustajalle pyyntö. 
   Vastaavasti perustaja voi liittää työryhmäänsä uusia jäseniä hakemalla oppilaita/opettajia ja lähettämällä heille ryhmäkutsun. 
-  Ryhmähakukentän
 
 - Lukujärjestys: Tältä sivulta käyttäjä voi katsoa päivän oppitunnit. Viikonpäivää voi vaihtaa vetämällä sormella haluamaansa suuntaan vasemmalle tai oikealle.
 

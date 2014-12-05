@@ -9,17 +9,17 @@ Vaatimusten määrittely tuotti myös vaikeuksia. Mitkä vaatimukset ovat dokume
 voidaan jättää toteuttajan harkinnan varaan. 
 
 **Projektin helpoimmat osuudet**
-Perus käyttötapausten löytäminen oli mielestämme helppoa. 
+- Perus käyttötapausten löytäminen oli mielestämme helppoa. 
 
 **Työtunnit**
- -Ilari Juvani  5h
- -Arttu Pakarinen 4h
- -Hannu Ikonen 5h
+ - Ilari Juvani  5h
+ - Arttu Pakarinen 4h
+ - Hannu Ikonen 5h
 Yhteensä: 14h (Ei sisällä oppitunneilla tehtyä työskentelyä)
 
 **Parannettavaa tulevaisuuteen**
- -Yhteisien työaikojen selkeämpi määrittely
- -Sovelluksen alustavaan ideointiin ja hahmotelmaan enemmän aikaa, jotta sovelluksen käyttöliittymän ja eri osien määrittely helpottuu projektin edetessä.
+ - Yhteisien työaikojen selkeämpi määrittely
+ - Sovelluksen alustavaan ideointiin ja hahmotelmaan enemmän aikaa, jotta sovelluksen käyttöliittymän ja eri osien määrittely helpottuu projektin edetessä.
 
 
 **Työn lopputulos**

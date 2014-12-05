@@ -25,7 +25,7 @@ Osalle tarttis tehä jotain, osa on liian epätarkkaa ja osa ei varmaa edes kuul
 
 **Funktionaaliset**
   * Järjestelmän voitava kirjautua Metropolian palvelimelle hakeakseen opiskelijatietoja
-  * Järjestelmän on havainnollistettava käyttäjän sijainti rakennuksen sisällä (TARKKUUS?)
+  * Järjestelmän on havainnollistettava käyttäjän sijainti rakennuksen sisällä huoneen/tilan tarkuudella
   * Järjestelmä laskee reitin käyttäjän nykyisestä sijainnista haluttuun luokkatilaan ja esittää reitin kartalla
   * Järjestelmä hakee lukujärjestykset ja vapaat tilat Metropolian valmiista järjestelmästä
   * Yhteydenpitoon palvelimen kanssa käytetään salattua yhteyttä 
@@ -39,7 +39,3 @@ Osalle tarttis tehä jotain, osa on liian epätarkkaa ja osa ei varmaa edes kuul
     - stressitesti?
   * Mikäli näyttö on "suljettuna", dataa ei lähetetä turhaan taustalla vaan sijainti haetaan uudelleen näytön "lähtiessä käyntiin"
     * muutaman minuutin "varoaika" ehkä mahdollinen
-
-
-** ONGELMIA JOITA MIETTIÄ **
-  * Yksi tai useampi wlan-reititin on pimeänä, miten signaalien mittaukset/sijainnin laskenta muuttuu?

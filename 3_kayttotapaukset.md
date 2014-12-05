@@ -43,7 +43,7 @@ tapahtuu virheitä karttanäkymän päivityksessä.
 - Alkutila: Käyttäjä on sisäänkirjautuneena sovelluksen päävalikossa, ja haluaa perustaa oman työryhmän
   paikantaakseen opiskelutoverinsa ja pitääkseen heihin yhteyttä sovelluksen kautta. 
 
-- Normaali kulku: Käyttäjä siirtyy Työryhmät-sivulle painamalla päävalikossa "Työryhmät"-painiketta. 
+- Normaali kulku: Käyttäjä siirtyy Ryhmienhallintasivulle painamalla päävalikossa "Työryhmät"-painiketta. 
   Työryhmät-sivulla käyttäjä pääsee perustamaan uuden ryhmän painamalla sivun ylälaidassa olevaa 
   "+"-painiketta. Käyttäjä syöttää avautuvaan tekstikenttään ryhmän nimen ja painaa enter. Käyttäjä
   hakee ystäviään painamalla Hakukentän vieressä olevan Henkilöhakupainikkeen aktiiviseksi ja kirjoittamalla henkilön nimen
@@ -59,7 +59,26 @@ tapahtuu virheitä karttanäkymän päivityksessä.
 
 - Vaihtoehtoiset tapahtumat: Käyttäjä luo työryhmän nimellä "SuomenSuurinProjekti", jonka myöhemmin huomaa olevan 
   epäsovelias työryhmän kokoonpanoon ja tavoitteisiin nähden. Hän poistaa äskettäin luodun ryhmän järjestelmästä, ja 
-  luo uuden ryhmän nimellä "EspoonSuurinProjekti".  
+  luo uuden ryhmän nimellä "EspoonSuurinProjekti".
+
+
+**Lähetä pikaviesti ryhmälle**
+
+- Alkutila: Käyttäjä on sisäänkirjautuneena sovelluksen päävalikossa, ja haluaa lähettää pikaviestin oman ryhmänsä jäsenille.
+
+- Normaali kulku: Käyttäjä siirtyy Ryhmienhallintasivulle painamalla päävalikossa "Työryhmät"-painiketta. Työryhmät-sivulla käyttäjä valitsee 
+  haluamansa ryhmän luettelosta sivun keskiosasta. Painettuaan haluamaansa työryhmää, näkymään avautuu ryhmän keskusteluikkuna. Keskusteluikkunassa 
+  käyttäjä kirjoittaa viestinsä tekstinsyöttökenttään ja painaa vieressä olevaa "Lähetä" -painiketta, jolloin viesti lähetetään keskusteluikkunan 
+  Chat-kenttään. 
+
+- Lopputila: Viestin lähetettyään käyttäjä poistuu keskusteluikkunasta painamalla puhelimen peruutus-painiketta, ja edelleen Ryhmienhallintasivulta
+  painamalla puhelimen peruutus-painiketta.
+
+- Mikä voi mennä pieleen: 
+
+- Vaihtoehtoiset tapahtumat: Käyttäjä kirjoittaa viestejä keskusteluikkunassa ryhmälleen, ja haluaa löytää ryhmän jäsenen sijainnin kartalta. Käyttäjä 
+  valitsee keskusteluikkunan oikeasta laidasta jäsenluettelosta ryhmän jäsenen, ja tämän jälkeen painaa "Lähetä"-painikkeen vieressä olevaa Navigointi/Nuoli-painiketta.
+  Käyttäjä siirtyy karttanäkymään navigoimaan valitun ryhmän jäsenen luokse.   
 
 
 --------------

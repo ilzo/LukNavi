@@ -27,7 +27,7 @@ lyhin mahdollinen reitti käyttäjän valitsemaan määränpäähän.
 
 
 Työryhmät-tilassa käyttäjä voi perustaa uusia ryhmiä tai liittyä olemassaoleviin ryhmiin. Työryhmän sisällä jäsenet voivat lähettää reaaliaikaisia pikaviestejä toisilleen. 
-Keskustelu- sekä työryhmä-tietokanta perustuu Tuubin työryhmä tietokantaan ja sen muokkaamiseen.
+Metropolian Tietohallinto ylläpitää tietokantaa käyttäjien luomista ryhmistä ja ryhmäkeskusteluista. 
 
 ***Vapaat työtilat***
 

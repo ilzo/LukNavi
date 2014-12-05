@@ -11,7 +11,7 @@ Ohessa käyttötapauskaavio keskeisine käyttötapauksineen:
 
 ###Käyttötapausskenaariot
 
-Ohessa on listattu tärkeimpien käyttötapauksien käyttötapausskenaariot:
+Ohessa on listattu muutamien keskeisten käyttötapausten käyttötapausskenaariot:
 
 **Hae valitun luokan/työtilan sijainti kartalta**
 
@@ -25,7 +25,7 @@ Kartta laskee käyttäjälle lyhyimmän mahdollisen reitin määränpäähän, j
 vihreänä reittiviivana. Käyttäjä kävelee kartan opastamaan suuntaan ja reitti sekä kartan keskitys 
 päivittyvät karttanäkymään käyttäjän siirtymän mukaan. 
 
-- Lopputila: Käyttäjä saapuu määränpäähänsä ja sulkee karttanäkymän puhelimen peruutus -painikkeesta
+- Lopputila: Käyttäjä saapuu määränpäähän ja sulkee karttanäkymän puhelimen peruutus -painikkeesta.
 
 - Mikä voi mennä pieleen: Yksittäiseen koulun wi-fi-tukiaseman vioittuessa tai signaalihäiriöiden sattuessa
 tapahtuu virheitä karttanäkymän päivityksessä.
@@ -74,17 +74,11 @@ tapahtuu virheitä karttanäkymän päivityksessä.
 - Lopputila: Viestin lähetettyään käyttäjä poistuu keskusteluikkunasta painamalla puhelimen peruutus-painiketta, ja edelleen Ryhmienhallintasivulta
   painamalla puhelimen peruutus-painiketta.
 
-- Mikä voi mennä pieleen: 
+- Mikä voi mennä pieleen: Mahdollisten yhteyshäiriöiden takia käyttäjän lähettämää viestiä kuljettavat datapaketit korruptoituvat tai putoavat matkan 
+  varrelta, ja näin ollen viesti ei tallennu järjestelmään eikä tulostu keskusteluikkunan Chat-kenttään. 
 
 - Vaihtoehtoiset tapahtumat: Käyttäjä kirjoittaa viestejä keskusteluikkunassa ryhmälleen, ja haluaa löytää ryhmän jäsenen sijainnin kartalta. Käyttäjä 
   valitsee keskusteluikkunan oikeasta laidasta jäsenluettelosta ryhmän jäsenen, ja tämän jälkeen painaa "Lähetä"-painikkeen vieressä olevaa Navigointi/Nuoli-painiketta.
   Käyttäjä siirtyy karttanäkymään navigoimaan valitun ryhmän jäsenen luokse.   
 
 
---------------
-* Määritä tänne järjestelmän loppukäyttäjät
-* Käyttötapauskaavio, jossa järjestelmän keskeiset käyttötapaukset
-* Kuvaile tärkeimmät käyttötapauksista käyttötapausskenaarioina mallipohjaan perustuen
-  * mallipohja: määritä alkutila (initial state), normaali kulku (normal flow), lopputila (end state)
-  * kerro myös kuinka normaali kulku voi mennä pieleen sekä
-  * mahdolliset vaihtoehtoiset kulut (alternate flow)

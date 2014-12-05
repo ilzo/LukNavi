@@ -6,7 +6,7 @@ samankaltaisia.
 
 Ohessa käyttötapauskaavio keskeisine käyttötapauksineen:
 
-![Use case diagram](http://users.metropolia.fi/~ilariju/UseCase_Diagram2.png)
+![Use case diagram](http://users.metropolia.fi/~ilariju/Ohjelmistotuotanto/UseCase_Diagram2.png)
 
 
 ###Käyttötapausskenaariot

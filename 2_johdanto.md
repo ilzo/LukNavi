@@ -6,6 +6,6 @@ orientoitumista.
 
 Projektin lopputuote, LukNavi, on opiskelijan henkilökohtainen mobiilinavigointisovellus, joka auttaa 
 opiskelijaa löytämään nopeasti ja vaivattomasti kaikki päivittäisten opiskelutarpeiden kattavat tilat ja palvelut 
-koulun alueella. 
+koulualueelta. 
 
 

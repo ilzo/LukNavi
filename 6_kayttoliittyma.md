@@ -17,7 +17,7 @@
 ###Näkymien tapahtumat ja toiminnot
 
 - Kirjautumissivu: Käyttäjä kirjautuu tässä ikkunassa sovellukseen omilla tuubi-käyttäjänimellään 
-	ja salasanallaan, ja painamalla "Kirjaudu" -painiketta. 
+	ja salasanallaan, ja painamalla "Kirjaudu" -painiketta. ![Login-kuva](https://raw.githubusercontent.com/ilzo/LukNavi/master/kuvat/Kirjautuminen_v2.png)
 	
 - Päävalikko/Hakusivu: Tälle näkymälle sijoittuu tiedot oppilaan seuraavaksi alkavasta oppitunnista omaan tietoikkunaan
 	  sivun ylälaitaan. Tietoikkunan oikeassa alakulmassa on Navigointi/Nuoli-painike, josta siirrytään karttanäkymään. Tietoikkunan

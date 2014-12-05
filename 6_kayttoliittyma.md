@@ -34,7 +34,8 @@
   Vastaavasti perustaja voi liittää työryhmäänsä uusia jäseniä hakemalla käyttäjiä ja lähettämällä heille kutsun ryhmään. 
   Hakukentän vieressä sijaitsevalla "+"-painikkeella käyttäjä siirtyy perustamaan uuden ryhmän. Tällöin näkymään avautuu ikkuna, jossa käyttäjää pyydetään 
   syöttämään hakukenttään perustettavan ryhmän nimi. Mikäli käyttäjän valitsema ryhmän nimi on jo olemassa, tapahtumaa ei voida suorittaa ja käyttäjä saa 
-  tästä ilmoituksen.    
+  tästä ilmoituksen. Valitsemalla sivun keskiosasta oman ryhmän, avautuu keskusteluikkuna, jossa on mahdollista lähettää pikaviestejä ryhmän muille jäsenille,
+  tai navigoida ryhmän jäsenten luo. Henkilön paikantaminen on mahdollista ainoastaan jos paikannettava henkilö on samassa ryhmässä ja kirjautuneena sovellukseen.    
 
 - Lukujärjestys: Tältä sivulta käyttäjä voi katsoa päivän oppitunnit. Viikonpäivää voi vaihtaa vetämällä sormella haluamaansa suuntaan vasemmalle tai oikealle.
 

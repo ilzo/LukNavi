@@ -24,7 +24,8 @@
 	  alapuolella on painikkeet "Lukujärjestys", "Vapaat työtilat" ja "Työryhmät". 
 	
 - Karttanäkymä: Kaksiulotteinen pohjakartta koulun sisätiloista, jossa käyttäjää edustaa punainen nuoli.
-	Riippuen mitä oppituntia tai työtilaa haetaan, käyttäjä ohjataan määränpäähän reittiviivalla. Reittiviiva 
+	Riippuen mitä oppituntia tai työtilaa haetaan, käyttäjä ohjataan määränpäähän reittiviivalla. Oman ryhmän jäseniä paikannettaessa, käyttäjää ohjataan
+    henkilön luokse reittiviivalla, ja paikannettavaa henkilöä edustaa kartalla vihreä piste/pallo.	Reittiviiva 
 	ja karttanäkymä päivittyvät ruudulla sitä mukaan kun käyttäjä liikkuu.
 	
 - Työryhmät: Tällä sivulla opiskelija voi perustaa oman työryhmän, hakea muita käyttäjiä nimellä, hakea olemassaolevia ryhmiä ja lähettää 
@@ -38,7 +39,8 @@
   tai navigoida ryhmän jäsenten luo. Henkilön paikantaminen on mahdollista ainoastaan jos paikannettava henkilö on samassa ryhmässä ja kirjautuneena sovellukseen.    
 
 - Lukujärjestys: Tältä sivulta käyttäjä voi katsoa päivän oppitunnit. Viikonpäivää voi vaihtaa vetämällä sormella haluamaansa suuntaan vasemmalle tai oikealle.
-
+  Painamalla yksittäistä oppituntia, avautuu näkymään ikkuna valitun oppitunnin tarkempine tietoineen. Lisäksi avattu ikkuna sisältää Navigointi/Nuoli-painikkeen,
+  josta siirrytään karttanäkymään paikantamaan valitun oppitunnin työtila.   
 
 
 ----------------

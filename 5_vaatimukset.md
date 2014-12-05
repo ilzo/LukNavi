@@ -11,9 +11,8 @@
 
   
 **Ei-funktionaaliset**
-  * Käytettävyys oltava helppoa: käyttäjätestejä&kyselyitä pitkin projektin etenemistä
+  * Käytettävyys oltava helppoa: käyttäjätestejä & kyselyitä pitkin projektin etenemistä
   * Ulkonäkö laadukas: Käyttäjäkyselyissä myös ulkonäköön liittyviä kysymyksiä
   * Sovelluksesta aiheutuva dataliikenne ei saa kuormittaa Metropolian wlan-yhteyksiä liiaksi
     - stressitesti?
   * Mikäli näyttö on "suljettuna", dataa ei lähetetä turhaan taustalla vaan sijainti haetaan uudelleen näytön "lähtiessä käyntiin"
-    * muutaman minuutin "varoaika" ehkä mahdollinen

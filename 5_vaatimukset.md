@@ -15,4 +15,3 @@
   * Ulkonäkö laadukas: Käyttäjäkyselyissä myös ulkonäköön liittyviä kysymyksiä
   * Sovelluksesta aiheutuva dataliikenne ei saa kuormittaa Metropolian wlan-yhteyksiä liiaksi
     - stressitesti?
-  * Mikäli näyttö on "suljettuna", dataa ei lähetetä turhaan taustalla vaan sijainti haetaan uudelleen näytön "lähtiessä käyntiin"

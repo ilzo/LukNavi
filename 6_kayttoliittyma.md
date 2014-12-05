@@ -10,7 +10,7 @@
 ###Näkymien väliset siirtymät korkealla tasolla
 - Päävalikosta löytyy painike "Lukujärjestys", jota painamalla siirrytään Lukujärjestys -näkymään. 
 	  Päävalikosta löytyy painike "Vapaat työtilat", joka avaa erillisen ikkunan, jossa varaamattomat työtilat lueteltuina.
-	  Jokaisen työtilan vieressä on Navigointi/Nuoli -painike, jota painamalla siirrytään karttanäkymään.
+	  Työtilaikkunoiden kohdalla on Navigointi/Nuoli -painike, jota painamalla siirrytään karttanäkymään.
 	  Päävalikossa on painike "Omat työryhmät", jota painamalla siirrytään ryhmienhallintasivulle.
 
 	  
@@ -33,7 +33,7 @@
   Vastaavasti perustaja voi liittää työryhmäänsä uusia jäseniä hakemalla käyttäjiä ja lähettämällä heille kutsun ryhmään. 
   Hakukentän vieressä sijaitsevalla "+"-painikkeella käyttäjä siirtyy perustamaan uuden ryhmän. Tällöin näkymään avautuu ikkuna, jossa käyttäjää pyydetään 
   syöttämään hakukenttään perustettavan ryhmän nimi. Mikäli käyttäjän valitsema ryhmän nimi on jo olemassa, tapahtumaa ei voida suorittaa ja käyttäjä saa 
-  tästä ilmoituksen.   
+  tästä ilmoituksen.    
 
 - Lukujärjestys: Tältä sivulta käyttäjä voi katsoa päivän oppitunnit. Viikonpäivää voi vaihtaa vetämällä sormella haluamaansa suuntaan vasemmalle tai oikealle.
 

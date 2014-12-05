@@ -6,7 +6,7 @@ samankaltaisia.
 
 Ohessa käyttötapauskaavio keskeisine käyttötapauksineen:
 
-![Use case diagram](http://users.metropolia.fi/~ilariju/UseCase_Diagram1.png)
+![Use case diagram](http://users.metropolia.fi/~ilariju/UseCase_Diagram2.png)
 
 
 ###Käyttötapausskenaariot
@@ -55,7 +55,7 @@ tapahtuu virheitä karttanäkymän päivityksessä.
 
 - Mikä voi mennä pieleen: Opiskelija ei voi luoda ryhmää, koska hänen nimeämä ryhmä on jo olemassa.   
 
-- Vaihtoehtoiset tapahtumat:   
+- Vaihtoehtoiset tapahtumat:    
 
 
 --------------

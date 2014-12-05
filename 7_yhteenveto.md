@@ -17,7 +17,7 @@ voidaan jättää toteuttajan harkinnan varaan.
  - Arttu Pakarinen 4h
  - Hannu Ikonen 5h
  
-Yhteensä: 14h (Ei sisällä oppitunneilla tehtyä työskentelyä)
+Yhteensä: 17h 
 
 **Parannettavaa tulevaisuuteen**
  - Yhteisien työaikojen selkeämpi määrittely

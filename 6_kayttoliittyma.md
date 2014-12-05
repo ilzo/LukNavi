@@ -15,6 +15,7 @@
 
 	  
 ###Näkymien tapahtumat ja toiminnot
+
 - Kirjautumissivu: Käyttäjä kirjautuu tässä ikkunassa sovellukseen omilla tuubi-käyttäjänimellään 
 	ja salasanallaan, ja painamalla "Kirjaudu" -painiketta. 
 	

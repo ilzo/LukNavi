@@ -26,9 +26,10 @@
 	Riippuen mitä oppituntia tai työtilaa haetaan, käyttäjä ohjataan määränpäähän reittiviivalla. Reittiviiva 
 	ja karttanäkymä päivittyvät ruudulla sitä mukaan kun käyttäjä liikkuu.
 	
-- Työryhmät: Tällä sivulla opiskelija voi joko perustaa oman työryhmän tai hakea olemassaolevia ryhmiä. Ryhmiä haetaan kirjoittamalla ryhmän nimi
-  Ryhmähakukenttään. Ryhmiin liitytään lähettämällä ryhmän perustajalle pyyntö. Vastaavasti perustaja voi liittää työryhmäänsä uusia jäseniä hakemalla Henkilöhakupainikkeella oppilaita/opettajia
-  ja lähettämällä heille ryhmäkutsun.  
+- Työryhmät: Tällä sivulla opiskelija voi joko perustaa oman työryhmän tai hakea olemassaolevia ryhmiä. Ryhmiä haetaan kirjoittamalla ryhmän nimi sivun
+  ylälaidassa sijaitsevaan Ryhmähakukenttään. Sivun keskiosassa näytetään oletuksena omat työryhmät, ja ryhmiä haettaessa hakutulokset. 
+  Ryhmiin liitytään lähettämällä ryhmän perustajalle pyyntö. Vastaavasti perustaja voi liittää työryhmäänsä uusia jäseniä hakemalla 
+  Henkilöhakupainikkeella oppilaita/opettajia ja lähettämällä heille ryhmäkutsun. 
 
 
 

@@ -15,45 +15,47 @@ Ohessa on listattu tärkeimpien käyttötapauksien käyttötapausskenaariot:
 
 **Hae valitun luokan/työtilan sijainti kartalta**
 
-- Alkutila: Opiskelija on sisäänkirjautuneena sovelluksen päävalikossa ja huomaa ylälaidassa olevasta 
-tietoikkunasta oppitunnin alkavan pian. Opiskelija ei tiedä missä tilassa tunti pidetään, ja haluaa 
+- Alkutila: Käyttäjä on sisäänkirjautuneena sovelluksen päävalikossa ja huomaa ylälaidassa olevasta 
+tietoikkunasta oppitunnin alkavan pian. Käyttäjä ei tiedä missä tilassa tunti pidetään, ja haluaa 
 selvittää tämän siirtymällä karttanäkymään.
 
-- Normaali kulku: Opiskelija painaa seuraavaksi alkavan oppitunnin tietoikkunan alakulmassa olevaa 
-kompassi-ikonia, joka avaa karttanäkymän. Karttanäkymässä opiskelija näkee itsensä punaisena nuolena.
-Kartta laskee opiskelijalle lyhyimmän mahdollisen reitin määränpäähän, ja välimatka piirretään kartalle 
-vihreänä reittiviivana. Opiskelija kävelee kartan opastamaan suuntaan ja reitti sekä kartan keskitys 
-päivittyvät karttanäkymään opiskelijan siirtymän mukaan. 
+- Normaali kulku: Käyttäjä painaa seuraavaksi alkavan oppitunnin tietoikkunan alakulmassa olevaa 
+Navigointi/Nuoli-ikonia, joka avaa karttanäkymän. Karttanäkymässä käyttäjä näkee itsensä punaisena nuolena.
+Kartta laskee käyttäjälle lyhyimmän mahdollisen reitin määränpäähän, ja välimatka piirretään kartalle 
+vihreänä reittiviivana. Käyttäjä kävelee kartan opastamaan suuntaan ja reitti sekä kartan keskitys 
+päivittyvät karttanäkymään käyttäjän siirtymän mukaan. 
 
-- Lopputila: Opiskelija saapuu määränpäähänsä ja sulkee karttanäkymän puhelimen peruutus -painikkeesta
+- Lopputila: Käyttäjä saapuu määränpäähänsä ja sulkee karttanäkymän puhelimen peruutus -painikkeesta
 
 - Mikä voi mennä pieleen: Yksittäiseen koulun wi-fi-tukiaseman vioittuessa tai signaalihäiriöiden sattuessa
 tapahtuu virheitä karttanäkymän päivityksessä.
 
 - Vaihtoehtoiset tapahtumat: 
-	- Opiskelija painaa vahingossa kompassi-ikonin sijaan tietoikkunaa, ja avaa sivun jossa on tarkennettua 
-	  informaatiota kurssista.
-	- Opiskelija sulkee karttanäkymän vahingossa painamalla puhelimen peruutus-painiketta.
-	- Opiskelija hakee myöhemmin alkavan oppitunnin lukujärjestyksestä ja siirtyy kompassi-ikonilla 
+	- Käyttäjä painaa vahingossa Navigointi/Nuoli-ikonin sijaan oppitunnin tietoikkunaa, ja avaa sivun jossa on tarkennettua 
+	  informaatiota opintojaksosta. Käyttäjä painaa avautuneella sivulla sijaitsevaa Navigointi/Nuoli-ikonia siirtyäkseen navigointitilaan
+      karttanäkymään.
+	- Käyttäjä sulkee karttanäkymän vahingossa painamalla puhelimen peruutus-painiketta.
+	- Käyttäjä hakee myöhemmin alkavan oppitunnin lukujärjestyksestä ja siirtyy Navigointi/Nuoli-ikonilla 
 	  karttanäkymään hakemaan reitin kyseisen oppitunnin työtilaan. 
     
 **Perusta oma työryhmä**
 
-- Alkutila: Opiskelija on sisäänkirjautuneena sovelluksen päävalikossa, ja haluaa perustaa oman työryhmän
+- Alkutila: Käyttäjä on sisäänkirjautuneena sovelluksen päävalikossa, ja haluaa perustaa oman työryhmän
   paikantaakseen opiskelutoverinsa ja pitääkseen heihin yhteyttä sovelluksen kautta. 
 
-- Normaali kulku: Opiskelija siirtyy Työryhmät-sivulle painamalla päävalikossa "Työryhmät"-painiketta. 
-  Työryhmät-sivulla opiskelija pääsee perustamaan uuden ryhmän painamalla sivun ylälaidassa olevaa 
-  "+"-painiketta. Opiskelija syöttää avautuvaan tekstikenttään ryhmän nimen ja painaa enter. Opiskelija 
-  hakee ystävänsä painamalla henkilöhakupainiketta, ja lähettää jokaiselle kutsun liittyä perustamaansa
-  työryhmään. Saapuneet kutsut näytetään huutomerkki-ilmoituksina vastaanottajan päävalikon Työryhmät-
+- Normaali kulku: Käyttäjä siirtyy Työryhmät-sivulle painamalla päävalikossa "Työryhmät"-painiketta. 
+  Työryhmät-sivulla käyttäjä pääsee perustamaan uuden ryhmän painamalla sivun ylälaidassa olevaa 
+  "+"-painiketta. Käyttäjä syöttää avautuvaan tekstikenttään ryhmän nimen ja painaa enter. Käyttäjä
+  hakee ystäviään painamalla Hakukentän vieressä olevan Henkilöhakupainikkeen aktiiviseksi ja kirjoittamalla henkilön nimen
+  Hakukenttään. Kun haettu henkilö palautetaan järjestelmästä sivun keskiosaan hakutuloksiin, käyttäjä valitsee haetun henkilön ja 
+  lähettää tälle kutsun liittyä perustamaansa työryhmään. Saapuneet kutsut näytetään huutomerkki-ilmoituksina vastaanottajan päävalikon Työryhmät-
   painikkeen kohdalla. 
   
-- Lopputila: Hyväksyttyään kutsut, opiskelijan ystävät kuuluvat tämän perustamaan ryhmään,
+- Lopputila: Hyväksyttyään kutsut, käyttäjän ystävät kuuluvat tämän perustamaan ryhmään,
   ja ryhmän jäsenet voivat paikantaa toisiaan koulualueella ja kommunikoida ryhmächatissa keskenään niin 
   kauan kuin ovat sisäänkirjautuneena sovellukseen ja heillä on puhelimien verkkoyhteydet aktiivisina.
 
-- Mikä voi mennä pieleen: Opiskelija ei voi luoda ryhmää, koska hänen nimeämä ryhmä on jo olemassa.   
+- Mikä voi mennä pieleen: Käyttäjä ei voi luoda ryhmää, koska hänen nimeämä ryhmä on jo olemassa.   
 
 - Vaihtoehtoiset tapahtumat:    
 

@@ -15,6 +15,7 @@ voidaan jättää toteuttajan harkinnan varaan.
  - Ilari Juvani  5h
  - Arttu Pakarinen 4h
  - Hannu Ikonen 5h
+ 
 Yhteensä: 14h (Ei sisällä oppitunneilla tehtyä työskentelyä)
 
 **Parannettavaa tulevaisuuteen**

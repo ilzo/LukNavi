@@ -13,7 +13,7 @@ voidaan jättää toteuttajan harkinnan varaan.
 - Perus käyttötapausten löytäminen oli mielestämme helppoa. 
 
 **Työtunnit**
- - Ilari Juvani  5h
+ - Ilari Juvani  8h
  - Arttu Pakarinen 4h
  - Hannu Ikonen 5h
  

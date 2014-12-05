@@ -33,6 +33,7 @@
   Vastaavasti perustaja voi liittää työryhmäänsä uusia jäseniä hakemalla oppilaita/opettajia ja lähettämällä heille ryhmäkutsun. 
   Ryhmähakukentän
 
+- Lukujärjestys: Tältä sivulta käyttäjä voi katsoa päivän oppitunnit. Viikonpäivää voi vaihtaa vetämällä sormella haluamaansa suuntaan vasemmalle tai oikealle.
 
 
 

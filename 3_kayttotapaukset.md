@@ -57,7 +57,9 @@ tapahtuu virheitä karttanäkymän päivityksessä.
 
 - Mikä voi mennä pieleen: Käyttäjä ei voi luoda ryhmää, koska hänen nimeämä ryhmä on jo olemassa.   
 
-- Vaihtoehtoiset tapahtumat:    
+- Vaihtoehtoiset tapahtumat: Käyttäjä luo työryhmän nimellä "SuomenSuurinProjekti", jonka myöhemmin huomaa olevan 
+  epäsovelias työryhmän kokoonpanoon ja tavoitteisiin nähden. Hän poistaa äskettäin luodun ryhmän järjestelmästä, ja 
+  luo uuden ryhmän nimellä "EspoonSuurinProjekti".  
 
 
 --------------

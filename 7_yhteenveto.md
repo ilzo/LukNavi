@@ -15,7 +15,7 @@ voidaan jättää toteuttajan harkinnan varaan.
 **Työtunnit**
  - Ilari Juvani  8h
  - Arttu Pakarinen 4h
- - Hannu Ikonen 5h
+ - Hannu Ikonen 7h
  
 Yhteensä: 17h 
 

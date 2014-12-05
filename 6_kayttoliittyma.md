@@ -27,9 +27,10 @@
 	ja karttanäkymä päivittyvät ruudulla sitä mukaan kun käyttäjä liikkuu.
 	
 - Työryhmät: Tällä sivulla opiskelija voi perustaa oman työryhmän, hakea muita oppilaita/opettajia nimellä, hakea olemassaolevia ryhmiä ja lähettää 
-  pikaviestejä omien työryhmien jäsenille. Ryhmiä haetaan kirjoittamalla ryhmän nimi sivun ylälaidassa sijaitsevaan Ryhmähakukenttään. Sivun 
+  pikaviestejä omien työryhmien jäsenille. Ryhmiä haetaan valitsemalla Hakukentän vieressä oleva Ryhmähakupainike aktiiviseksi ja kirjoittamalla ryhmän nimi 
+  Hakukenttään. Vastaavasti yksittäisiä henkilöitä haetaan valitsemalla Henkilöhakupainike aktiiviseksi ja kirjoittamalla henkilön nimi Hakukenttään. Sivun 
   keskiosassa näytetään oletuksena omat työryhmät, ja ryhmiä haettaessa hakutulokset. Ryhmiin liitytään lähettämällä ryhmän perustajalle pyyntö. 
-  Vastaavasti perustaja voi liittää työryhmäänsä uusia jäseniä hakemalla Henkilöhakupainikkeella oppilaita/opettajia ja lähettämällä heille ryhmäkutsun. 
+  Vastaavasti perustaja voi liittää työryhmäänsä uusia jäseniä hakemalla oppilaita/opettajia ja lähettämällä heille ryhmäkutsun. 
   Ryhmähakukentän
 
 - Lukujärjestys: Tältä sivulta käyttäjä voi katsoa päivän oppitunnit. Viikonpäivää voi vaihtaa vetämällä sormella haluamaansa suuntaan vasemmalle tai oikealle.

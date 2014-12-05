@@ -24,8 +24,12 @@
 	
 - Karttanäkymä: Kaksiulotteinen pohjakartta koulun sisätiloista, jossa käyttäjää edustaa punainen nuoli.
 	Riippuen mitä oppituntia tai työtilaa haetaan, käyttäjä ohjataan määränpäähän reittiviivalla. Reittiviiva 
-	ja karttanäkymä päivittyvät ruudulla sitä mukaan kun käyttäjä liikkuu.
+	ja karttanäkymä päivittyvät ruudulla sitä mukaan kun käyttäjä liikkuu. ![Karttanäkymä](http://users.metropolia.fi/~hannui/ohtukuv/Karttanakyma.png)
 
+- Työryhmät: Tällä sivulla käyttäjä voi koota uusia tai liittyä valmiiseen työryhmään. 
+	Luotujen työryhmien sisällä voidaan käydä viestikeskustelua.
+	
+- Lukujärjestys: Tältä sivulta käyttäjä voi katsoa päivän oppitunnit. Viikonpäivää voi vaihtaa vetämällä sormella haluamaansa suuntaan vasemmalle tai oikealle.
 
 
 

@@ -1,8 +1,8 @@
 ## Yhteenveto, projektinhallinta
 
-**Projekti**
+###Projekti
 
-* Projektin haasteet
+**Projektin haasteet**
 Mielestämme käyttötapausskenaarioiden tulkinnanvaraisuudesta johtuen niiden määrittäminen on hyvin haasteellista.
 Erityisesti vaihtoehtoiset tapahtumat, jotka voivat olla seurauksia edellisestä tapahtumasta. 
 Vaatimusten määrittely tuotti myös vaikeuksia. Mitkä vaatimukset ovat dokumentin kannalta välttämättömiä ja mitkä 

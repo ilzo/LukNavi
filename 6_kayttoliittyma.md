@@ -45,7 +45,4 @@
   josta siirrytään karttanäkymään paikantamaan valitun oppitunnin työtila.   
 
 
-----------------
-* listaa käyttöliittymän näkymät
-* niiden keskinäiset suhteet
-* kuvaile mitä näkymässä tapahtuu / tehdään
+
